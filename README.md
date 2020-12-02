@@ -1,1 +1,1 @@
-# sob-blog-vue-admin
+# blog-vue-admin
